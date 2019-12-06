@@ -23,6 +23,8 @@ public class AppTest
         System.out.println("I am in GitDemo3");
         System.out.println("I am in GitDemo4");
         System.out.println("I am in GitDemo5");
+        
+        System.out.println("I am in GitDemo6");
     }
 
     /**
