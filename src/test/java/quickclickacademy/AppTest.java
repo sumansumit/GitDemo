@@ -20,6 +20,9 @@ public class AppTest
         super( testName );
         System.out.println("I am in GitDemo1");
         System.out.println("I am in GitDemo2");
+        System.out.println("I am in GitDemo3");
+        System.out.println("I am in GitDemo4");
+        System.out.println("I am in GitDemo5");
     }
 
     /**
