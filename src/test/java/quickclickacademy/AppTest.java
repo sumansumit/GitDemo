@@ -18,6 +18,8 @@ public class AppTest
     public AppTest( String testName )
     {
         super( testName );
+        System.out.println("I am in GitDemo1");
+        System.out.println("I am in GitDemo2");
     }
 
     /**
